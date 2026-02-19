@@ -1,5 +1,5 @@
 # 📰 JPY/USD 相關新聞時間線
-**建立日期**：2026/02/18  
+**建立日期**：2026/02/19  
 **維護人**：News Analyst  
 **用途**：記錄 00706L ETF 操盤會議中引用的所有重要新聞，供日後參考  
 **格式**：[方向] | 時間 | 新聞標題 | 來源連結
@@ -70,6 +70,8 @@
 | 🔴 日圓利空 | 2026/02/17 | Litefinance：USD/JPY 等待高市就任後政策決策，政治不確定性壓制日圓 | [Litefinance](https://www.litefinance.org/blog/analysts-opinions/usd-jpy-price-prediction/yen-awaits-takaichis-decision-forecast-as-of-1802202) |
 | 🔴 日圓利空 | 2026/02/18 | Kyodo News：高市早苗正式連任首相，宣示財政寬鬆（暫停食品消費稅 + 大規模財政刺激）⭐ | [Kyodo News](https://english.kyodonews.net/articles/-/70735) |
 | 🔴 日圓利空 | 2026/02/18 | Investing.com：USD/JPY 在強勁貿易數據後仍走高，日圓放棄部分漲幅；市場在數據與財政政策間尋求平衡 | [Investing.com](https://www.investing.com/analysis/usdjpy-moderately-higher-as-market-balances-between-data-and-forecasts-200675206) |
+| 🟢 日圓利多 | 2026/02/19 | 日媒：FRB 承認 1 月下旬曾做美元/日圓「レートチェック」，並稱係財務省要請；當時市場一度出現急速円高ドル安 | [Yahoo Japan](https://news.yahoo.co.jp/articles/2ef4eb8a55d3c0a7b1bca75f93171a19fd319de4) |
+
 
 ---
 
@@ -93,7 +95,7 @@
 
 | 方向 | 預計時間 | 事件 | 重要性 |
 |------|---------|------|--------|
-| ⚠️ 雙向 | **2026/02/19（明日）** | 美國 1 月 PPI 數據公布 | 🔴 極高 |
+| ⚠️ 雙向 | 2026/02/27（五） | 美國 1 月 PPI 數據公布（BLS 時程更正） | 🔴 極高 | 
 | 🟢 日圓利多 | 2026/03 月中 | Shunto 春季薪資談判第一輪結果確認（Rengo 目標 ≥5%） | 🔴 極高 |
 | 🟢 日圓利多 | 2026/04 月 | BoJ 政策會議（升息機率 70%，目標利率 1.00%） | 🔴 極高 |
 | ⚠️ 雙向 | 2026/03–04 月 | 高市財政刺激法案國會審議結果 | 🟠 高 |
@@ -121,5 +123,5 @@
 
 ---
 
-*本文件隨每次會議更新。下次更新時間：2026/02/19（PPI 數據公布後）*
+*本文件隨每次會議更新。下次更新時間：2026/02/20（PPI 數據公布後）*
 
