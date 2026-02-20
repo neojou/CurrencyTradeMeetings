@@ -1,5 +1,5 @@
 # 📰 JPY/USD 相關新聞時間線
-**建立日期**：2026/02/19  
+**建立日期**：2026/02/20  
 **維護人**：News Analyst  
 **用途**：記錄 00706L ETF 操盤會議中引用的所有重要新聞，供日後參考  
 **格式**：[方向] | 時間 | 新聞標題 | 來源連結
@@ -72,6 +72,16 @@
 | 🔴 日圓利空 | 2026/02/18 | Investing.com：USD/JPY 在強勁貿易數據後仍走高，日圓放棄部分漲幅；市場在數據與財政政策間尋求平衡 | [Investing.com](https://www.investing.com/analysis/usdjpy-moderately-higher-as-market-balances-between-data-and-forecasts-200675206) |
 | 🟢 日圓利多 | 2026/02/19 | 日媒：FRB 承認 1 月下旬曾做美元/日圓「レートチェック」，並稱係財務省要請；當時市場一度出現急速円高ドル安 | [Yahoo Japan](https://news.yahoo.co.jp/articles/2ef4eb8a55d3c0a7b1bca75f93171a19fd319de4) |
 
+---
+
+## 2026年2月下旬（2/20–）
+
+| 方向      | 時間 | 新聞標題 | 來源                                                                                                                                                         |
+|---------|------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔴 日圓利空 | 2026/02/20 | Reuters/Bloomberg/CNBC：日本 1 月核心 CPI 降至 2.0%（2 年低點），首次跌至 BoJ 2% 目標，複雜化 4 月升息時程；但核心核心通膨仍達 2.6%，BoJ 中期路徑未改 ⭐ | [Reuters](https://www.reuters.com/world/asia-pacific/japans-core-inflation-slows-2-year-low-complicates-boj-rate-hike-timing-2026-02-20/)                  |
+| ⚠️ 雙向   | 2026/02/20 | 日本政府擬最快 2/25（三）向國會提交 BoJ 兩席新理事名單，替補 Noguchi（3月底任滿，末代再通膨派）與 Nakagawa（6月任滿，金融界背景）；候選名單含「再通膨派」人選，若入選恐拖慢升息節奏 → JPY 中期利空；PM 顧問 Honda 明確表示「無需一定選再通膨派」；BoJ 官員憂心 Takaichi 仿效安倍任命模式⭐ | [MarketScreener/Reuters](https://www.marketscreener.com/news/japan-government-to-submit-boj-nominees-next-week-list-includes-reflationists-ce7e5dddd98cff23) \| [Japan Times](https://www.japantimes.co.jp/business/2026/02/19/economy/takaichi-boj-picks/) \| [MNI Markets](https://www.mnimarkets.com/articles/mni-policy-concerns-grow-over-takaichis-boj-board-picks-1764901991693) |
+| ⚠️ 雙向   | 2026/02/20 | FX Leaders：USD/JPY 日內衝至 155.65，突破財務省 Rate Check 干預警戒上限（155.0–155.5），「消息衝高後回吐」型態出現，正式干預風險升至高水位；若干預，00706L 受惠 | [FX Leaders](https://www.fxleaders.com/news/2026/02/20/usd-jpy-price-forecast-yen-collapses-to-155-00-as-japans-gdp-shock-ignites-157-00-breakout-target/) |
+
 
 ---
 
@@ -95,6 +105,7 @@
 
 | 方向 | 預計時間 | 事件 | 重要性 |
 |------|---------|------|--------|
+| ⚠️ 雙向 | 2026/02/25（三） | BoJ 兩席新理事名單提交國會審議（再通膨派任命風險）⭐ | 🔴 極高 |
 | ⚠️ 雙向 | 2026/02/27（五） | 美國 1 月 PPI 數據公布（BLS 時程更正） | 🔴 極高 | 
 | 🟢 日圓利多 | 2026/03 月中 | Shunto 春季薪資談判第一輪結果確認（Rengo 目標 ≥5%） | 🔴 極高 |
 | 🟢 日圓利多 | 2026/04 月 | BoJ 政策會議（升息機率 70%，目標利率 1.00%） | 🔴 極高 |
@@ -107,9 +118,9 @@
 | 類別 | 則數 |
 |------|------|
 | 🟢 日圓利多 | 19 則 |
-| 🔴 日圓利空 | 6 則 |
-| **淨利多** | **+13 則** |
-
+| 🔴 日圓利空 | 7 則 |
+| ⚠️ 雙向/待觀察 | 2 則（2/20 新增）|
+| **淨利多** | **+12 則** |
 **利空新聞特徵**：集中於高市財政政策（短期政治因素）與 Q4 GDP（一次性數據），不改變中期趨勢。  
 **利多新聞特徵**：橫跨 BoJ 升息路徑、薪資成長、貿易數據、IMF 確認等多個基本面維度，中期 JPY 走強邏輯完整。
 
@@ -120,8 +131,8 @@
 | 日期 | 更新內容 | 更新人 |
 |------|---------|--------|
 | 2026/02/18 | 初版建立，收錄 2025/11 – 2026/02/18 所有相關新聞 | News Analyst |
-
+| 2026/02/20 | 新增 2/20 三則：日本 1 月 CPI（利空）、BoJ 2/25 人事提交（待觀察）、USD/JPY 突破干預警戒區（雙向）；待觀察新增 2/25 BoJ 人事；統計更新 | News Analyst |
 ---
 
-*本文件隨每次會議更新。下次更新時間：2026/02/20（PPI 數據公布後）*
+*本文件隨每次會議更新。下次更新時間：2026/02/23（下週一開市）*
 
