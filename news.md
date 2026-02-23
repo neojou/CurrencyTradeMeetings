@@ -1,5 +1,5 @@
 # 📰 JPY/USD 相關新聞時間線
-**建立日期**：2026/02/20  
+**建立日期**：2026/02/23
 **維護人**：News Analyst  
 **用途**：記錄 00706L ETF 操盤會議中引用的所有重要新聞，供日後參考  
 **格式**：[方向] | 時間 | 新聞標題 | 來源連結
@@ -17,28 +17,6 @@
 
 ---
 
-## 2025年（背景基礎新聞）
-
-| 方向 | 時間 | 新聞標題 | 來源 |
-|------|------|---------|------|
-| 🟢 日圓利多 | 2025/11/27 | Rengo 工會宣布 2026 年春季薪資目標：大企業 ≥5%、中小企業 ≥6% | [Japan Times](https://www.japantimes.co.jp/business/2025/11/28/economy/rengo-wage-hike-shunto/) |
-| 🟢 日圓利多 | 2025/12/16 | Reuters Breakingviews：「BoJ 將贏得與高市的財政雞肉遊戲（Fiscal Chicken）」 | [Reuters](https://www.reuters.com/commentary/breakingviews/boj-will-win-takaichis-game-fiscal-chicken-2025-12-16/) |
-| 🟢 日圓利多 | 2025/12/28 | Dupoin：日本央行釋放 2026 年進一步升息可能性 | [Dupoin](https://dupoin.com/tw/insights/market-analysis/82546) |
-
----
-
-## 2026年1月
-
-| 方向 | 時間 | 新聞標題 | 來源 |
-|------|------|---------|------|
-| 🟢 日圓利多 | 2026/01/12 | Bloomberg：BoJ 前委員 Sakurai — 日圓走弱可能促使 BoJ 4 月升息 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-13/weak-yen-may-spur-boj-rate-hike-in-april-ex-board-member-says) |
-| 🟢 日圓利多 | 2026/01/16 | Reuters 獨家：BoJ 內部官員認為升息時間可能早於市場預期，4 月是明確可能性 | [Reuters](https://www.reuters.com/world/asia-pacific/some-boj-see-scope-raise-rates-sooner-than-markets-expect-sources-say-2026-01-16/) |
-| 🟢 日圓利多 | 2026/01/16 | CNBC：BoJ 消息人士透露升息時間點可能早於市場預期 | [CNBC](https://www.cnbc.com/2026/01/16/boj-sources-see-scope-to-raise-rates-sooner-than-markets-expect.html) |
-| 🟢 日圓利多 | 2026/01/26 | Japan News Yomiuri：Shunto 春季薪資談判正式啟動，勞資雙方強調薪資成長動能需持續強化 | [Japan News](https://japannews.yomiuri.co.jp/news-services/jiji-press/20260127-307031/) |
-| 🟢 日圓利多 | 2026/01/27 | Oxford Economics：日本面臨進一步 BoJ 升息壓力，但幅度存在不確定性 | [Oxford Economics](https://www.oxfordeconomics.com/resource/japan-faces-further-boj-rate-hikes-but-howmuch/) |
-
----
-
 ## 2026年2月上旬（2/1–2/13）
 
 | 方向 | 時間 | 新聞標題 | 來源 |
@@ -46,6 +24,7 @@
 | 🔴 日圓利空 | 2026/02/01 | Japan Times：高市發言「日圓走弱對出口是機遇」，打消市場匯率干預預期，日圓應聲下跌 | [Japan Times](https://www.japantimes.co.jp/business/2026/02/02/markets/yen-drops-japan-pm-takaichi-remark/) |
 | 🟢 日圓利多 | 2026/02/08 | Al Jazeera：高市自民黨選舉大勝，取得超多數 316 席，政策穩定性確立 | [Al Jazeera](https://www.aljazeera.com/news/2026/2/8/pm-sanae-takaichis-party-set-for-majority-in-japan-parliamentary-elections) |
 | 🔴 日圓利空 | 2026/02/10 | IG：高市就任帶來日本債務可持續性挑戰，JGB 大量發行疑慮，財政赤字擴大壓力 | [IG](https://www.ig.com/en/news-and-trade-ideas/takaichi-japan-debt-crisis-260211) |
+| ⚠️ 雙向    | 2026/02/11 | BoJ：日本 1 月 PPI YoY +2.3%（前值 +2.4%，符合預期），創 2024/5 以來最慢漲速；飲食、機械等類別成本壓力溫和放緩，MoM +0.2%；PPI 走緩略削弱升息迫切性，但幅度溫和，對 BoJ 升息路徑影響中性偏空 | [BoJ 官方報告](https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2601.pdf) \| [Trading Economics](https://tradingeconomics.com/japan/producer-prices-change) |
 | 🟢 日圓利多 | 2026/02/11 | Reuters：日本首相高市不願冒日圓走弱風險，政府加強輿論管控 | [Reuters](https://www.reuters.com/world/asia-pacific/why-japans-emboldened-pm-wont-toy-with-risks-weak-yen-2026-02-11/) |
 | 🟢 日圓利多 | 2026/02/12 | Reuters：Mizuho 共同市場主管 — BoJ 最快可能 3 月升息，2026 全年最多升息 3 次 | [Reuters](https://www.reuters.com/business/finance/boj-could-hike-rates-early-march-up-3-times-2026-mizuho-executive-says-2026-02-12/) |
 | 🟢 日圓利多 | 2026/02/12 | 鉅亨網：日銀升息腳步近了？官員釋出關鍵訊號 | [鉅亨網](https://news.cnyes.com/news/id/6344351) |
@@ -81,23 +60,25 @@
 | 🔴 日圓利空 | 2026/02/20 | Reuters/Bloomberg/CNBC：日本 1 月核心 CPI 降至 2.0%（2 年低點），首次跌至 BoJ 2% 目標，複雜化 4 月升息時程；但核心核心通膨仍達 2.6%，BoJ 中期路徑未改 ⭐ | [Reuters](https://www.reuters.com/world/asia-pacific/japans-core-inflation-slows-2-year-low-complicates-boj-rate-hike-timing-2026-02-20/)                  |
 | ⚠️ 雙向   | 2026/02/20 | 日本政府擬最快 2/25（三）向國會提交 BoJ 兩席新理事名單，替補 Noguchi（3月底任滿，末代再通膨派）與 Nakagawa（6月任滿，金融界背景）；候選名單含「再通膨派」人選，若入選恐拖慢升息節奏 → JPY 中期利空；PM 顧問 Honda 明確表示「無需一定選再通膨派」；BoJ 官員憂心 Takaichi 仿效安倍任命模式⭐ | [MarketScreener/Reuters](https://www.marketscreener.com/news/japan-government-to-submit-boj-nominees-next-week-list-includes-reflationists-ce7e5dddd98cff23) \| [Japan Times](https://www.japantimes.co.jp/business/2026/02/19/economy/takaichi-boj-picks/) \| [MNI Markets](https://www.mnimarkets.com/articles/mni-policy-concerns-grow-over-takaichis-boj-board-picks-1764901991693) |
 | ⚠️ 雙向   | 2026/02/20 | FX Leaders：USD/JPY 日內衝至 155.65，突破財務省 Rate Check 干預警戒上限（155.0–155.5），「消息衝高後回吐」型態出現，正式干預風險升至高水位；若干預，00706L 受惠 | [FX Leaders](https://www.fxleaders.com/news/2026/02/20/usd-jpy-price-forecast-yen-collapses-to-155-00-as-japans-gdp-shock-ignites-157-00-breakout-target/) |
-
+| 🟢 日圓利多 | 2026/02/22 | Trump 批評最高法院推翻緊急關稅令，宣告將全球關稅從 10% 提高至 15% 並擴大調查，避險情緒升溫，亞盤一度壓低 USD/JPY 至 154.00 低點；但日圓強勢有限，被 CPI 降溫利空抵消 | [富途資訊](https://news.futunn.com/hk/post/69088900/) |
 
 ---
 
 ## 機構預測彙整
 
-| 機構 | 預測內容 | 時間點 | 來源 |
-|------|---------|--------|------|
-| IMF | 2026 年升息 2 次，2027 年前達中性利率 | 2026/02/17 | [Reuters](https://www.reuters.com/business/finance/imf-urges-japan-keep-raising-rates-avoid-reducing-sales-tax-2026-02-17/) |
-| Mizuho Financial | 最快 3 月升息，全年最多 3 次（25bps/次） | 2026/02/12 | [Reuters](https://www.reuters.com/business/finance/boj-could-hike-rates-early-march-up-3-times-2026-mizuho-executive-says-2026-02-12/) |
-| BoJ 前委員 Adachi | 4 月升息機率高於 3 月，最可能時間點 | 2026/02/16 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-16/boj-likely-to-raise-key-rate-in-april-ex-board-member-says) |
-| BoJ 前委員 Sakurai | 至少 6 月前升息，可能 4 月 | 2026/01/12 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-13/weak-yen-may-spur-boj-rate-hike-in-april-ex-board-member-says) |
-| Totan Research | BoJ 4 月前升息市場定價機率 **70%**，且持續上升 | 2026/02/17 | [Nikkei Asia](https://asia.nikkei.com/business/markets/bonds/overseas-investors-tap-brakes-on-jgb-selling-post-election) |
-| MUFG（三菱日聯）| Q1 末 154.32 → Q2 末 152.00 → 之後持續走低 | 2026/02 月報 | [MUFG](https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-february-2026/) |
-| ExchangeRates.org | 3 月短暫升至 155.42，之後看向 149.50 | 2026/02/16 | [ExchangeRates](https://www.exchangerates.org.uk/currency-forecasts/us-dollar-to-yen-forecast) |
-| Oxford Economics | 2026 年升息 1-2 次，幅度保守 | 2026/01/27 | [Oxford Economics](https://www.oxfordeconomics.com/resource/japan-faces-further-boj-rate-hikes-but-howmuch/) |
-| ING Think | 升息 1 次，時間點下半年 2026 | 2026/01 | [ING](https://think.ing.com/articles/japan-brief-what-you-might-have-missed-over-the-year-end-holiday/) |
+| 時間點 | 機構 | 預測內容 | 來源 |
+|--------|------|---------|------|
+| 2026/02 月報 | MUFG（三菱日聯）| Q1 末 154.32 → Q2 末 152.00 → 之後持續走低 | [MUFG](https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-february-2026/) |
+| 2026/02/12 | Mizuho Financial | 最快 3 月升息，全年最多 3 次（25bps/次） | [Reuters](https://www.reuters.com/business/finance/boj-could-hike-rates-early-march-up-3-times-2026-mizuho-executive-says-2026-02-12/) |
+| 2026/02/16 | BoJ 前委員 Adachi | 4 月升息機率高於 3 月，最可能時間點 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-16/boj-likely-to-raise-key-rate-in-april-ex-board-member-says) |
+| 2026/02/16 | ExchangeRates.org | 3 月短暫升至 155.42，之後看向 149.50 | [ExchangeRates](https://www.exchangerates.org.uk/currency-forecasts/us-dollar-to-yen-forecast) |
+| 2026/02/16 | **BNP Paribas（法巴）** | **3個月目標上修至 158**（偏空 JPY，認為財政+通膨壓力封頂日圓升幅）；12個月目標 155；預計 BoJ 繼續升息 + Fed 降息 2 次，但效果有限 ⚠️ | [BNP Paribas WM](https://wealthmanagement.bnpparibas.com/en/insights/market-strategy/currencies-focus-february-2026.html) |
+| 2026/02/17 | Totan Research | BoJ 4 月前升息市場定價機率 **70%**，且持續上升 | [Nikkei Asia](https://asia.nikkei.com/business/markets/bonds/overseas-investors-tap-brakes-on-jgb-selling-post-election) |
+| 2026/02/17 | IMF | 2026 年升息 2 次，2027 年前達中性利率 | [Reuters](https://www.reuters.com/business/finance/imf-urges-japan-keep-raising-rates-avoid-reducing-sales-tax-2026-02-17/) |
+| 2026/02/17 | Totan Research | BoJ 4 月前升息市場定價機率 **70%**，且持續上升 | [Nikkei Asia](...) |
+| 2026/02/17 | IMF | 2026 年升息 2 次，2027 年前達中性利率 | [Reuters](...) |
+| 2026/02/22 | **FX Empire** | BoJ 升息正常化 + Fed 降息收窄利差 → 中期看空 USD/JPY；鷹派 BoJ 中性利率目標 1.5–2.5%，若多次升息 JPY 中期走強，短線仍受政策分歧拉鋸 | [FX Empire](https://www.fxempire.com/forecasts/article/japanese-yen-forecast-usd-jpy-weakens-on-policy-divergence-1581134) |
+| 2026/02/23 | **ExchangeRates.org（更新）** | 今日最新：1個月 155.39、3個月 153.75、6個月 151.62、1年 146.77；季度：Q1 155.42 → Q2 152.97 → Q3 151.01 → Q4 149.50（⬆️ 短線略上修，中長線看跌美元不變）| [ExchangeRates](https://www.exchangerates.org.uk/currency-forecasts/us-dollar-to-yen-forecast) |
 
 ---
 
@@ -105,34 +86,14 @@
 
 | 方向 | 預計時間 | 事件 | 重要性 |
 |------|---------|------|--------|
-| ⚠️ 雙向 | 2026/02/25（三） | BoJ 兩席新理事名單提交國會審議（再通膨派任命風險）⭐ | 🔴 極高 |
+| ⚠️ 雙向 | 2026/02/25（三） | BoJ 兩席新理事名單提交國會審議；機率評估：兩席均再通膨派 10%、混合情境 55%、兩席中性/鷹派以上 35%；基準情境偏混合，USD/JPY 154–156 最可能 ⭐ | 🔴 極高 |
 | ⚠️ 雙向 | 2026/02/27（五） | 美國 1 月 PPI 數據公布（BLS 時程更正） | 🔴 極高 | 
 | 🟢 日圓利多 | 2026/03 月中 | Shunto 春季薪資談判第一輪結果確認（Rengo 目標 ≥5%） | 🔴 極高 |
 | 🟢 日圓利多 | 2026/04 月 | BoJ 政策會議（升息機率 70%，目標利率 1.00%） | 🔴 極高 |
 | ⚠️ 雙向 | 2026/03–04 月 | 高市財政刺激法案國會審議結果 | 🟠 高 |
 
----
-
-## 新聞利多/利空統計
-
-| 類別 | 則數 |
-|------|------|
-| 🟢 日圓利多 | 19 則 |
-| 🔴 日圓利空 | 7 則 |
-| ⚠️ 雙向/待觀察 | 2 則（2/20 新增）|
-| **淨利多** | **+12 則** |
-**利空新聞特徵**：集中於高市財政政策（短期政治因素）與 Q4 GDP（一次性數據），不改變中期趨勢。  
-**利多新聞特徵**：橫跨 BoJ 升息路徑、薪資成長、貿易數據、IMF 確認等多個基本面維度，中期 JPY 走強邏輯完整。
 
 ---
 
-## 更新紀錄
-
-| 日期 | 更新內容 | 更新人 |
-|------|---------|--------|
-| 2026/02/18 | 初版建立，收錄 2025/11 – 2026/02/18 所有相關新聞 | News Analyst |
-| 2026/02/20 | 新增 2/20 三則：日本 1 月 CPI（利空）、BoJ 2/25 人事提交（待觀察）、USD/JPY 突破干預警戒區（雙向）；待觀察新增 2/25 BoJ 人事；統計更新 | News Analyst |
----
-
-*本文件隨每次會議更新。下次更新時間：2026/02/23（下週一開市）*
+*本文件隨每次會議更新。下次更新時間：2026/02/24 *
 
