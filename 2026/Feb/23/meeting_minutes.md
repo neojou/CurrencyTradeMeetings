@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Minute Taker : 請做會議記錄, 下次會議為明日晚間台股收盤後
-
-
----
-
 # 📋 Minute Taker — 晨會記錄
 
 ## 2026-02-23（一）春節開紅盤日 | 下次會議：2/24（二）台股收盤後
