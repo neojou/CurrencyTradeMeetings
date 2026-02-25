@@ -167,5 +167,5 @@
 
 [^1]: strategy.md
 
-[^2]: meeting_minutes.md
+[^2]: meeting_minutes.md~~
 

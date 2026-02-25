@@ -1,5 +1,5 @@
 # 📰 JPY/USD 相關新聞時間線
-**建立日期**：2026/02/24
+**建立日期**：2026/02/25
 **維護人**：News Analyst  
 **用途**：記錄 DCI / 00706L 操盤會議中引用的所有重要新聞，供日後參考  
 **格式**：[方向] | 時間 | 新聞標題 | 來源連結
@@ -66,6 +66,10 @@
 | 🔴 日圓利空 | 2026/02/24 | Bloomberg："Yen Slides on a Double Whammy"（雙重打擊）：高市施壓消息 + 鴿派提名預期疊加，日圓延伸跌勢，USD/JPY 日高 156.28，收 155.86（+0.78%） | [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-24/yen-extends-decline-after-report-on-takaichis-rate-hike-view) |
 | 🔴 日圓利空 | 2026/02/24 | CNBC："Yen slips after report on Japanese PM Takaichi's rate-hike caution"；亞太市場重啟、美元走強背景下日圓進一步承壓 | [CNBC](https://www.cnbc.com/2026/02/24/dollar-languishes-as-asia-markets-reopen-to-renewed-tariff-turmoil.html) |
 | 🔴 日圓利空 | 2026/02/24 | Investing.com："USD/JPY Outlook: Yen Slides on a Double Whammy"；技術面確認 USD/JPY 突破 155.5 警戒位，下一壓力區 156.5–157.0 | [Investing.com](https://www.investing.com/analysis/usdjpy-outlook-yen-slides-on-a-double-whammy-200675557) |
+| 🔴 日圓利空 | 2026/02/25 | 日本政府公布 BoJ 兩席提名人選：青山學院大學教授佐藤綾乃（Ayano Sato）與中央大學名譽教授淺田敏知郎（Toichiro Asada），兩人均再通脹派學者，鴿派傾向強；高市政府延緩升息意圖明顯，USD/JPY 衝高至 156.8 ⭐🔴 | [Marketscreener](https://www.marketscreener.com/news/japan-government-taps-academics-asada-sato-for-boj-board-ce7e5cdbd888f522) \| [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-25/takaichi-s-government-picks-two-academics-to-join-boj-board) \| [Reuters](https://www.reuters.com/world/asia-pacific/yen-under-pressure-after-takaichi-report-aussie-higher-inflation-2026-02-25/) |
+
+
+
 ---
 
 ## 機構預測彙整
@@ -88,17 +92,17 @@
 ---
 
 ## 待觀察關鍵事件
+- 2026/02/25 BoJ 提名：**已公布，鴿派確認，短線 JPY 弱持續 1–2 週**，國會審議 2–4 週內。
 
 | 方向 | 預計時間 | 事件 | 重要性 |
 |------|---------|------|--------|
-| ⚠️ 雙向 | 2026/02/25（三） | BoJ 兩席新理事名單提交國會審議；**機率更新（2/24 高市施壓消息後）**：兩席均再通脹派 ~30%、混合（一鴿一鷹）~45%、兩席中性/鷹派 ~25%；鴿派主導機率明顯上升 → USD/JPY 可能進一步測試 156.5–157.0；若兩席均鴿派 → bond vigilantes 風險警示，JGB 殖利率警戒位 2.20% ⭐🔴 | 🔴 極高 |
-| 🔴 日圓利空 | 2026/02/25（三）（已發生/即將） | **BoJ 提名結果決策樹（2/24 更新）**：🟢 鷹派 → 停損恢復模式A(20.19)，P(日圓升)回升；🔴 鴿派 → USD/JPY 衝向 156.5–157，DCI 路徑A安全，00706L 持倉壓力加劇；🟡 中立 → 靜觀3日再評估 | 內部分析 |
 | ⚠️ 雙向 | 2026/02/27（五） | 美國 1 月 PPI 數據公布（BLS 時程更正） | 🔴 極高 | 
 | 🟢 日圓利多 | 2026/03 月中 | Shunto 春季薪資談判第一輪結果確認（Rengo 目標 ≥5%） | 🔴 極高 |
 | 🟢 日圓利多 | 2026/04 月 | BoJ 政策會議（升息機率 70%，目標利率 1.00%） | 🔴 極高 |
 | ⚠️ 雙向 | 2026/03–04 月 | 高市財政刺激法案國會審議結果 | 🟠 高 |
 
 
+
 ---
 
-*本文件隨每次會議更新。最後更新：2026/02/24 晚間（Rate Reporter + News Analyst 確認）下次更新時間：2026/02/25 BoJ 提名公告後*
+*本文件隨每次會議更新。最後更新：2026/02/25 晚間; 下次更新時間：2026/02/26 *
