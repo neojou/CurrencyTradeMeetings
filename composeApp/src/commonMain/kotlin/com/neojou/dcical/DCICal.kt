@@ -34,12 +34,27 @@ fun dci_cal() {
     val days = 9
     val dci_order:DCI = DCI()
 
+    //
     dci_order.set_money(base_money)
     dci_order.set_days(days)
+
     dci_order.set_trade_price(157.0f)
     dci_order.set_interest_year_rate(0.1134f)
+    dci_order_calculate(cur_market_price, cur_sigma, dci_order)
 
+    //
+    dci_order.set_trade_price(156.5f)
+    dci_order.set_interest_year_rate(0.0739f)
+    dci_order_calculate(cur_market_price, cur_sigma, dci_order)
 
+    //
+    dci_order.set_trade_price(156.0f)
+    dci_order.set_interest_year_rate(0.0451f)
+    dci_order_calculate(cur_market_price, cur_sigma, dci_order)
+
+    //
+    dci_order.set_trade_price(155.5f)
+    dci_order.set_interest_year_rate(0.0236f)
     dci_order_calculate(cur_market_price, cur_sigma, dci_order)
 
 }
@@ -50,10 +65,18 @@ fun dci_order_calculate(cur_market_price:Float, sigma:Float, dci_order:DCI) {
     val interest_year_rate = MyFloat.round(dci_order.get_interest_year_rate() * 100.0f, 2)
     val interest = MyFloat.round(dci_order.cal_interest(), 0)
     val cdf = MyFloat.round(
-        dci_order.cal_possibility_not_trigger(cur_market_price, sigma) * 100.0f,
+        dci_order.cal_p_not_trigger(cur_market_price, sigma) * 100.0f,
         4)
+    val ev:Float = MyFloat.round(
+        dci_order.cal_ev(cur_market_price, sigma) * 100.0f,
+        4)
+    val ev_bull:Float = MyFloat.round(
+        dci_order.cal_ev_with_s_end(cur_market_price, sigma, 154.0f) * 100.0f,
+        4)
+
+
     MyLog.add(TAG,
-        "$trade_price $tolerance $interest_year_rate%  $interest JPY $cdf%" )
+        "$trade_price $tolerance $interest_year_rate%  $interest JPY $cdf% $ev% $ev_bull%" )
 
 }
 
