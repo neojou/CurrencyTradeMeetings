@@ -27,6 +27,28 @@ import com.neojou.tools.*
 private const val TAG = "DCICal"
 
 fun dci_cal() {
+    //one_dci_order_cal()
+    two_dci_order_cal()
+}
+
+fun two_dci_order_cal() {
+    val cur_market_price = 157.4f
+    val cur_sigma = 0.09f
+
+    val base_money = 2000000.00f
+    val days = 9
+    val dci_order: DCI = DCI()
+
+    //
+    dci_order.set_money(base_money)
+    dci_order.set_days(days)
+
+    dci_order.set_trade_price(157.0f)
+    dci_order.set_interest_year_rate(0.1134f)
+    two_dci_orders_calculate(cur_market_price, cur_sigma, dci_order)
+}
+
+fun one_dci_order_cal() {
     val cur_market_price = 157.4f
     val cur_sigma = 0.09f
 
@@ -57,6 +79,19 @@ fun dci_cal() {
     dci_order.set_interest_year_rate(0.0236f)
     dci_order_calculate(cur_market_price, cur_sigma, dci_order)
 
+}
+
+fun two_dci_orders_calculate(cur_price:Float, sigma:Float, dci_order:DCI) {
+    val trade_price = MyFloat.round(dci_order.get_trade_price(), 1)
+    val pa = dci_order.cal_p_not_trigger(cur_price, sigma)
+    val p_bc = 1 - pa
+
+
+    pa = MyFloat.round(
+        dci_order.cal_p_not_trigger(cur_price, sigma) * 100.0f,
+        2)
+    MyLog.add(TAG,
+        "$trade_price $pa%  " )
 }
 
 fun dci_order_calculate(cur_market_price:Float, sigma:Float, dci_order:DCI) {
